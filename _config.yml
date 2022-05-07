@@ -23,7 +23,7 @@ timezone: Asia/Dhaka
 
 title: Nazia Shehnaz                          # the main title
 
-tagline: 3rd year UG at MIST CSE  # it will display as the sub-title
+tagline: Final year UG at MIST CSE  # it will display as the sub-title
 
 description:                     # used by seo meta and the atom feed
   
@@ -50,7 +50,7 @@ social:
     - https://twitter.com/geek_a_byte32      # change to your twitter homepage
     - https://github.com/geek-a-byte       # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/Geek.a.Byte22
     - https://www.linkedin.com/in/naziashehnaz
 
 google_site_verification:               # fill in to your verification string
