@@ -6,7 +6,7 @@ tags: [miscellaneous]     # TAG names should always be lowercase
 author:
   name: Nazia Shehnaz Joynab
 toc: false
-pin: true
+pin: false
 ---
 
 আমি একুশ শতকের অতি আধুনিকা নারী হতে চাই না।
