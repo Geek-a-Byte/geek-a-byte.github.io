@@ -7,6 +7,7 @@ author:
   name: Nazia Shehnaz Joynab
 toc: false
 pin: false
+comments: true
 ---
 
 This algorithm replaces the page that will not be referred by the CPU in future for the longest time.It is practically impossible to implement this algorithm.This is because the pages that will not be used in future for the longest time can not be predicted.However, it is the best known algorithm and gives the least number of page faults.Hence, it is used as a performance measure criterion for other algorithms.

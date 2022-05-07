@@ -7,6 +7,7 @@ author:
   name: Nazia Shehnaz Joynab
 toc: false
 pin: false
+comments: true
 ---
 
 > php version : 8.0.3 , OS: Windows, System Specification : 64-bit operating system, x64-based processor

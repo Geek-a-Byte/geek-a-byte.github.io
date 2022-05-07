@@ -7,6 +7,7 @@ author:
   name: Nazia Shehnaz Joynab
 toc: false
 pin: false
+comments: true
 ---
 
 ## Page fault

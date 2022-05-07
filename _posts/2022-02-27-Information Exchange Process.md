@@ -7,6 +7,7 @@ author:
   name: Nazia Shehnaz Joynab
 toc: true
 pin: false
+comments: true
 ---
 
 Information flow:

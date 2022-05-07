@@ -7,6 +7,7 @@ author:
   name: Nazia Shehnaz Joynab
 toc: false
 pin: false
+comments: true
 ---
 
 In most computers with virtual memory, each page is associated with two status bits.

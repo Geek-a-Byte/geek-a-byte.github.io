@@ -7,6 +7,7 @@ author:
   name: Nazia Shehnaz Joynab
 toc: false
 pin: false
+comments: true
 ---
 
 আমি একুশ শতকের অতি আধুনিকা নারী হতে চাই না।
