@@ -38,7 +38,7 @@ twitter:
   username: geek_a_byte32            # change to your twitter username
 
 linkedin:
-  username: naziashehnaz
+  username: nsjoynab
 
 social:
   # Change to your full name.
@@ -50,8 +50,8 @@ social:
     - https://twitter.com/geek_a_byte32      # change to your twitter homepage
     - https://github.com/geek-a-byte       # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/Geek.a.Byte22
-    - https://www.linkedin.com/in/naziashehnaz
+    - https://www.facebook.com/nsjoynab
+    - https://www.linkedin.com/in/nsjoynab
 
 google_site_verification:               # fill in to your verification string
 
@@ -83,7 +83,7 @@ theme_mode:
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: assets/img/me.jpg
 
 # the avatar on sidebar, support local or CORS resources
 avatar: 
