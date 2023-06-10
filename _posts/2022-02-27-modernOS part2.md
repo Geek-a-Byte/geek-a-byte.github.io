@@ -15,7 +15,7 @@ This algorithm replaces the page that will not be referred by the CPU in future 
 Let’s understand this through an example. Let’s consider a page reference string (7, 0, 1, 2, 0, 3, 0, 4, 2, 3, 0, 3, 2) with 4 page frames.
 Initially all the memory slots will be empty so (7, 0, 1, 2) will be allocated to the memory with 4 page-faults(Miss). As (0) is already there, there’s no page fault(Hit). Next in the string is (3), it’ll replace (7) as it’s not used for the longest period of time in the future, with one page fault. Again, 0 is already there, so no page fault. 4 will replace 1 with one page fault. And for the rest of the string, there will be no page fault as all the arriving pages are already there in the memory.
 
-![Optimal Page Replacement](/assets/OS/Optimal Page Replacement algo.png){: .normal }
+<!-- ![Optimal Page Replacement](/assets/OS/Optimal Page Replacement algo.png){: .normal } -->
 
 Total Page Fault = total miss = 6
 
