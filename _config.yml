@@ -21,9 +21,9 @@ timezone: Asia/Dhaka
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Nazia Shehnaz                          # the main title
+title: Nazia Shehnaz Joynab                          # the main title
 
-tagline: Final year UG at MIST CSE  # it will display as the sub-title
+tagline: Graduate Student @MIST CSE  # it will display as the sub-title
 
 description:                     # used by seo meta and the atom feed
   
@@ -83,10 +83,10 @@ theme_mode:
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn: assets/img/me.jpg
+img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: 
+avatar: assets/img/me.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
