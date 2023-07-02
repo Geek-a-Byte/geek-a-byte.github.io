@@ -3,7 +3,7 @@ title: Information Exchange Process
 date: 2022-02-27 09:10:50 +0600
 categories: [Academics,Networking]
 tags: [networking]     # TAG names should always be lowercase
-author: Nazia Shehnaz Joynab
+author: <author_id> 
 toc: true
 pin: false
 comments: true
