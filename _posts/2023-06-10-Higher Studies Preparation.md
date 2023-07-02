@@ -9,6 +9,8 @@ author:
 toc: false
 pin: false
 comments: true
+image:
+  path: https://github.com/Geek-a-Byte/geek-a-byte.github.io/assets/59027621/71aba61f-d7f0-42f0-be9d-0e0a37eaf59e
 ---
 
 ![Higher-education-in-Germany](https://github.com/Geek-a-Byte/geek-a-byte.github.io/assets/59027621/71aba61f-d7f0-42f0-be9d-0e0a37eaf59e)
