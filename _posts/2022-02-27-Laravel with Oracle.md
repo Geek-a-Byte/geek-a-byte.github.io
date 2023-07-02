@@ -3,8 +3,7 @@ title: Cloning a Laravel + Oracle 11g Project Requirements
 date: 2022-02-27 07:17:50 +0600
 categories: [Backend Development, Laravel8]
 tags: [backend development,laravel8,oracle11g]     # TAG names should always be lowercase
-author:
-  name: Nazia Shehnaz Joynab
+author: <author_id> 
 toc: false
 pin: false
 comments: true
